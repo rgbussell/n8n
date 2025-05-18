@@ -31,6 +31,8 @@ else
     sudo npm install -g n8n
 fi
 
+# TODO figure out what do to with n8n
+
 #echo "Creating n8n user..."
 #sudo useradd -m -s /bin/bash n8n || true
 
